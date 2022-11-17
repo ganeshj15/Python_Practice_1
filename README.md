@@ -1,5 +1,5 @@
 # Python_practice_1
-codes on string
+Here we will see some sample codes on python data type 'string'
 
 Strings in python are surrounded by either single quotation marks, or double quotation marks.
 
